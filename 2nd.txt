@@ -1,2 +1,3 @@
 2nd Git
 追記しました。
+user name 変更
